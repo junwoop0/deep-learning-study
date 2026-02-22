@@ -7,3 +7,4 @@ Problems focused on calculus in deep-ml.com.
 | File | Difficulty | Time |
 |------|------------|------|
 | derivative-of-polynomial.py | Easy | 5 min |
+| product_rule_derivative.py | Medium | 45 min |
