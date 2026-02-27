@@ -53,6 +53,7 @@ Notes
     - If you have a polynomial with coefficients in descending order, for example, p(x) = 2x^2 + 0x + 3, the coefficients are p_coeffs = [2, 0, 3]
     - To evaluate p(x) at a specific value of x, you can use np.polyval(p_coeffs, x)
 - Never forget to check if list is empty
+- If you want to differentiate a polynomial using NumPy, you can use the np.polyder() function
 '''
 
 '''
