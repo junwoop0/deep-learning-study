@@ -1,6 +1,6 @@
 # Deep Learning Study
 
-A repository documenting my journey to become an AI/ML scientist.
+A repository for building ML fundamentals through problem solving and implementation.
 
 ## Structure
 
