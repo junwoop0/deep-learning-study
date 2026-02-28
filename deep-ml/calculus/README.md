@@ -11,3 +11,4 @@ Problems focused on calculus in deep-ml.com.
 | quotient_rule_derivative.py | Medium | 30 min |
 | gradient_direction_magnitude.py | Easy | 20 min |
 | partial_derivatives.py | Medium | 35 min |
+| chain_rule_derivative.py | Medium | 40 min |
