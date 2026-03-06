@@ -5,7 +5,6 @@ A repository for building ML fundamentals through problem solving and implementa
 ## Structure
 
 - `deep-ml/` — math and ML fundamentals from deep-ml.com
-- `leetcode/` — coding practice problems from leetcode.com
 - `model-from-scratch/` — implementing AI models by hand
 - `pytorch-practice/` — experiments using PyTorch
 
