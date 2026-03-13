@@ -1,6 +1,6 @@
 # Calculus
 
-Problems focused on calculus in deep-ml.com.
+Problems focused on calculus.
 
 ## Problems
 

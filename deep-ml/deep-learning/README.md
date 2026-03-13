@@ -1,6 +1,6 @@
 # Deep Learning
 
-Problems focused on deep learning in deep-ml.com.
+Problems focused on deep learning.
 
 ## Problems
 
