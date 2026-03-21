@@ -11,3 +11,4 @@ Problems focused on deep learning.
 | cross_entropy_loss_derivative.py | Medium | 10 min |
 | single_neuron_backpropagation.py | Medium | 60 min |
 | autograd_basic.py | Medium | 60 min |
+| momentum_optimizer.py | Easy | 15 min |
